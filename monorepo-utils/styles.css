@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'TestFont';
+  src: url('./NotoSans.ttf') format('truetype');
+}
+body {
+  background-image: url('./image.svg');
+  font-family: 'TestFont', sans-serif;
+}

@@ -1,0 +1,6 @@
+{
+  "workspaces": [
+    "svelte-app",
+    "monorepo-utils"
+  ]
+}
